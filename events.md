@@ -4,6 +4,8 @@ title: Events
 permalink: /events/
 ---
 
+<!-- dummy change for PR workflow test — safe to ignore / reject -->
+
 <div class="audience-hero">
   <p class="audience-hero-label"><i class="ph ph-calendar-blank"></i> &nbsp;VLED Lab Events</p>
   <h1 class="audience-hero-h">Come learn with us.</h1>
